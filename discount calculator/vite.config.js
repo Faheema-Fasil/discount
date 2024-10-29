@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/discount/', // update this to match your repo name
 });
+
