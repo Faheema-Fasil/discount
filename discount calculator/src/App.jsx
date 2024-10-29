@@ -3,6 +3,7 @@ import { Button } from 'react-bootstrap';
 import './App.css';
 
 function App() {
+  
   const [originalPrice, setOriginalPrice] = useState(0);
   const [discountPercentage, setDiscountPercentage] = useState(0);
   const [quantity, setQuantity] = useState(1);
